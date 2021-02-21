@@ -2,7 +2,7 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/jasmine_sprout/v1.5/total.svg)](https://GitHub.com/Hycon-Releases/jasmine_sprout/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/jasmine_sprout/V1.5/total.svg)](https://GitHub.com/Hycon-Releases/jasmine_sprout/releases)
 
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/jasmine_sprout/V1.0/total.svg)](https://GitHub.com/Hycon-Releases/jasmine_sprout/releases)
