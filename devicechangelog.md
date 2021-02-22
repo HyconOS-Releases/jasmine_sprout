@@ -1,4 +1,4 @@
-- FBE ENCRYPTED BUILD
+# FBE ENCRYPTED BUILD
 - Upstreamed kernel with latest Halcyon3.7
 - Fixed Smart Charging
 - Fixed Ok Google
