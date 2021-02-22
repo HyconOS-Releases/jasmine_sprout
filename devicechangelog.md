@@ -1,0 +1,8 @@
+- Upstreamed kernel with latest Halcyon3.7
+- Fixed Smart Charging
+- Fixed Ok Google
+- Fixed Offline Charging Animation
+- Add back zRam block in fstab
+- Enable fluence voice recording
+- configure SQLite to operate in MEMORY mode
+- Other changes that doesn't makes sense in here
