@@ -9,7 +9,7 @@
 - Other changes that doesn't makes sense in here
 
 *********************************************
-- Flashing With Encryption-
+# Flashing With Encryption-
 - Boot to TWRP
 - Wipe Everything or Except Internal
 - Flash Rom
@@ -17,7 +17,7 @@
 - Format Data
 - Reboot to system
 
-- Without Encryption -
+# Flashing Without Encryption -
 - Boot to TWRP
 - Wipe Everything or Except Internal
 - Flash Rom
