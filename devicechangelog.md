@@ -8,20 +8,20 @@
 - configure SQLite to operate in MEMORY mode
 - Other changes that doesn't makes sense in here
 
--Flashing With Encryption-
-Boot to TWRP
-Wipe Everything or Except Internal
-Flash Rom
-Reboot to Recovery
-Format Data
-Reboot to system
+- Flashing With Encryption-
+- Boot to TWRP
+- Wipe Everything or Except Internal
+- Flash Rom
+- Reboot to Recovery
+- Format Data
+- Reboot to system
 
-Without Encryption -
-Boot to TWRP
-Wipe Everything or Except Internal
-Flash Rom
-Reboot to Recovery
-flash dfe
-reboot
-******** GAPPS & TWRP INCLUDED *********
-******** Clean Flash Necessary *********
+- Without Encryption -
+- Boot to TWRP
+- Wipe Everything or Except Internal
+- Flash Rom
+- Reboot to Recovery
+- flash dfe
+- reboot
+- ******** GAPPS & TWRP INCLUDED *********
+- ******** Clean Flash Necessary *********
