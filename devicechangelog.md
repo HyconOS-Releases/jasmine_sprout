@@ -10,7 +10,7 @@
 - 
 - ******** GAPPS & TWRP INCLUDED *********
 - ******** Clean Flash Necessary *********
-- 
+
 # Flashing With Encryption-
 - Boot to TWRP
 - Wipe Everything or Except Internal
